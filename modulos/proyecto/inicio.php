@@ -27,10 +27,10 @@
 
         <div class="grupo-formulario col-sm-12 col-md-6 col-lg-4">
             <div class="row">
-                <div class="col-sm-6 col-md-4 texto-centro">
+                <div class="col-sm-6 col-md-6 texto-centro">
                     <label class="negrita"  for="inputPassword">Tiempo inicial</label>
                 </div>
-                <div class="col-sm-6 col-md-8 texto-centro">
+                <div class="col-sm-6 col-md-6 texto-centro">
                     <input type="date" class="form-control" id="inputPassword">
                 </div>
             </div>  
@@ -38,10 +38,10 @@
 
         <div class="grupo-formulario col-sm-12 col-md-6 col-lg-4">
             <div class="row">
-                <div class="col-sm-6 col-md-4 texto-centro">
+                <div class="col-sm-6 col-md-6 texto-centro">
                     <label  class="negrita " style="aling-text:right" for="inputPassword">Tiempo Final</label>
                 </div>
-                <div class="col-sm-6 col-md-8 texto-centro">
+                <div class="col-sm-6 col-md-6 texto-centro">
                     <input type="date" class="form-control" id="inputPassword">
                 </div>
             </div>  
@@ -49,10 +49,10 @@
 
         <div class="grupo-formulario col-sm-12 col-md-6 col-lg-4">
             <div class="row">
-                <div class="col-sm-6 col-md-4 texto-centro">
+                <div class="col-sm-6 col-md-6 texto-centro">
                     <label class="negrita " for="inputPassword">Tiempo Trancurrido</label>
                 </div>
-                <div class="col-sm-6 col-md-8">
+                <div class="col-sm-6 col-md-6">
                     <div class="input-group">      
                         <input type="text" class="form-control" id="inputPassword">                
                         <span class="input-group-text" id="basic-addon1">Meses</span>     

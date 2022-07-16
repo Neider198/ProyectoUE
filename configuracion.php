@@ -18,7 +18,7 @@ $mods['proyecto'] = [
     "inicio" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/inicio.php"] ,
     "consultar" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/consultar.php"] ,
     "detalle" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/detalle.php"] ,
-    "actualizar" => ["diseño" => "pagina-libre", "archivo" => "modulos/proyecto/actualizar.php"],
+    "anticipo" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/anticipo.php"] ,
     "eliminar" => ["diseño" => "pagina-libre", "archivo" => "modulos/proyecto/eliminar.php"]
 ];
 
