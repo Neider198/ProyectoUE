@@ -37,9 +37,9 @@
             <td>31/12/2022</td>  
             <td>12 Meses</td>
             <td>100.000.000</td>
-            <td >
+            <td class="centrar">
             <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/detalle" role="button"> 
-                <i class="fa-solid fa-eye"></i> 
+                VER <i class="fa-solid fa-eye"></i> 
             </a>
         </td>
     </tr>
@@ -50,9 +50,9 @@
             <td>31/12/2022</td>  
             <td>8 Meses</td>
             <td>50.000.000</td>
-            <td >
+            <td class="centrar">
             <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/detalle" role="button"> 
-                <i class="fa-solid fa-eye"></i> 
+               VER <i class="fa-solid fa-eye"></i> 
             </a>
         </td>
     </tr>
@@ -63,9 +63,9 @@
             <td>31/12/2022</td>  
             <td>6 Meses</td>
             <td>70.000.000</td>
-            <td >
+            <td class="centrar">
             <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/detalle" role="button"> 
-                <i class="fa-solid fa-eye"></i> 
+                VER <i class="fa-solid fa-eye"></i> 
             </a>
         </td>
     </tr>
@@ -76,9 +76,9 @@
             <td>31/12/2022</td>  
             <td>2 Meses</td>
             <td>20.000.000</td>
-            <td >
+            <td class="centrar">
             <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/detalle" role="button"> 
-                <i class="fa-solid fa-eye"></i> 
+                VER <i class="fa-solid fa-eye"></i> 
             </a>
         </td>
     </tr>

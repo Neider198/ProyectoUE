@@ -1,5 +1,7 @@
 <h2 style="margin:auto">GASTOS ANTICIPO</h2>
 <br><br>
+
+
 <div style="width:70%;margin:auto">
     <table  class="table table-striped table-hover table-bordered">
     <thead class="table-dark">

@@ -31,7 +31,7 @@ $mods['proyecto'] = [
 //crear
 $mods['presupuesto'] = [
     "inicio" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/inicio.php"] ,
-    "consultar" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/consultar.php"] ,
+    "crear" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/crear.php"] ,
     "detalle" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/detalle.php"] ,
     "anticipo" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/anticipo.php"] ,
     "primer-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/primer-pago.php"] ,
