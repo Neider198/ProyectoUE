@@ -30,9 +30,9 @@
             </a>
             <div class="collapse" id="collapseModificar" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                 <nav class="sb-sidenav-menu-nested nav">
-                    <a class="nav-link"  href="<?php echo RAIZ ?>proyecto/inicio"> <i class="fa-solid fa-circle-dot sub-icono"></i> Adicion</a>
-                    <a class="nav-link" href="<?php echo RAIZ ?>proyecto/consultar"><i  class="fa-solid fa-circle-dot sub-icono"></i>Translados</a>
-                    <a class="nav-link" href="<?php echo RAIZ ?>proyecto/consultar"><i  class="fa-solid fa-circle-dot sub-icono"></i>Aval</a>
+                    <a class="nav-link"  href="<?php echo RAIZ ?>presupuesto/adicion"> <i class="fa-solid fa-circle-dot sub-icono"></i> Adicion</a>
+                    <a class="nav-link" href="<?php echo RAIZ ?>presupuesto/consultar"><i  class="fa-solid fa-circle-dot sub-icono"></i>Translados</a>
+                    <a class="nav-link" href="<?php echo RAIZ ?>presupuesto/consultar"><i  class="fa-solid fa-circle-dot sub-icono"></i>Aval</a>
                 </nav>
             </div>
 

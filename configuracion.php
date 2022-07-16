@@ -32,7 +32,7 @@ $mods['proyecto'] = [
 $mods['presupuesto'] = [
     "inicio" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/inicio.php"] ,
     "crear" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/crear.php"] ,
-    "detalle" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/detalle.php"] ,
+    "adicion" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/adicion.php"] ,
     "anticipo" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/anticipo.php"] ,
     "primer-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/primer-pago.php"] ,
     "segundo-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/segundo-pago.php"] ,
