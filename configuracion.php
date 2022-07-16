@@ -19,8 +19,27 @@ $mods['proyecto'] = [
     "consultar" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/consultar.php"] ,
     "detalle" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/detalle.php"] ,
     "anticipo" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/anticipo.php"] ,
-    "eliminar" => ["diseño" => "pagina-libre", "archivo" => "modulos/proyecto/eliminar.php"]
+    "primer-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/primer-pago.php"] ,
+    "segundo-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/segundo-pago.php"] ,
+    "tercer-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/tercer-pago.php"] ,
 ];
+
+
+                //*****************************************//
+                //------- MODULOS PRESUPUESTO ---------//
+                //*****************************************//
+//crear
+$mods['presupuesto'] = [
+    "inicio" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/inicio.php"] ,
+    "consultar" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/consultar.php"] ,
+    "detalle" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/detalle.php"] ,
+    "anticipo" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/anticipo.php"] ,
+    "primer-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/primer-pago.php"] ,
+    "segundo-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/segundo-pago.php"] ,
+    "tercer-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/tercer-pago.php"] ,
+];
+
+
 
 
                 //*****************************************//

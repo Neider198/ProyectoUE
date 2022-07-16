@@ -4,18 +4,13 @@
 <div class="row">
     <div class="grupo-formulario col-sm-12 ">
         <div class=" row">
-            <div class="col-sm-12 col-md-11">
-                <select class="form-select" aria-label="Default select example">
-                    <option selected>Selecione el proyecto a consultar</option>
-                    <option value="1">Proyecto A</option>
-                    <option value="2">Proyecto B</option>
-                    <option value="3">Proyecto C</option>
-                    <option value="3">Proyecto D</option>
-                </select>
+            <div class="col-sm-12 col-md-10">
+                <input type="text" class="form-control" id="inputPassword">
+                <br>
             </div>
-            <div class="col-sm-12 col-md-1">
+            <div class="col-sm-12 col-md-2">
                 <div style="text-align:left" class="col-sm-12 col-md-12">
-                    <button class="btn btn-primary">Consultar</button>                        
+                    <button style="width:100%" class="btn btn-primary">Consultar</button>                        
                 </div>
             </div>
         </div>  

@@ -1,4 +1,4 @@
-<h2 style="margin:auto">GASTOS ANTICIPO</h2>
+<h2 style="margin:auto">GASTOS SEGUNDO PAGO</h2>
 <br><br>
 <div style="width:70%;margin:auto">
     <table  class="table table-striped table-hover table-bordered">
@@ -20,7 +20,7 @@
         <tr>
             <th scope="row">2</th>
                 <td>Alimentacion #1</td>
-                <td>2.000.000</td>
+                <td>1.000.000</td>
                 <td>01/02/2022</td>  
         </tr>
         <tr>
@@ -65,7 +65,7 @@
     <div class="grupo-formulario col-sm-12 col-md-12 col-lg-12" sty>
         <div class="row">
             <div class="col-sm-6 col-md-6 col-lg-6 texto-centro">
-                <label class="negrita " for="inputPassword">Saldo Anticipo</label>
+                <label class="negrita " for="inputPassword">Saldo segundo pago</label>
             </div>
             <div class="col-sm-6 col-md-6 col-lg-6">
                 <div class="input-group">      

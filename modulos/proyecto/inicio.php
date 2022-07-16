@@ -9,7 +9,7 @@
                     <label class="negrita" for="inputPassword">Nombre del proyecto</label>
                 </div>
                 <div class="col-sm-12 col-md-10">
-                    <input type="password" class="form-control" id="inputPassword">
+                    <input type="text" class="form-control" id="inputPassword">
                 </div>
             </div>  
         </div>

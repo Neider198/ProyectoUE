@@ -82,7 +82,7 @@
                     <div class="input-group">      
                         <input type="text" class="form-control" id="inputPassword" placeholder="40.000.000" disabled readonly>                
                         <span class="input-group-text" id="basic-addon1">
-                            <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/detalle" role="button"> 
+                            <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/anticipo" role="button"> 
                                 <i class="fa-solid fa-eye"></i> 
                             </a>
                         </span>     
@@ -100,7 +100,7 @@
                     <div class="input-group">      
                         <input type="text" class="form-control" id="inputPassword" placeholder="30.000.000" disabled readonly>                
                         <span class="input-group-text" id="basic-addon1">
-                            <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/detalle" role="button"> 
+                            <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/primer-pago" role="button"> 
                                 <i class="fa-solid fa-eye"></i> 
                             </a>
                         </span>     
@@ -118,7 +118,7 @@
                     <div class="input-group">      
                         <input type="text" class="form-control" id="inputPassword" placeholder="10.000.000" disabled readonly>                
                         <span class="input-group-text" id="basic-addon1">
-                            <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/detalle" role="button"> 
+                            <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/segundo-pago" role="button"> 
                                 <i class="fa-solid fa-eye"></i> 
                             </a>
                         </span>     
@@ -136,7 +136,7 @@
                     <div class="input-group">      
                         <input type="text" class="form-control" placeholder="15.000.000" disabled readonly>                
                         <span class="input-group-text" id="basic-addon1">
-                            <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/detalle" role="button"> 
+                            <a class="btn btn-warning btn-sm " href="<?php echo RAIZ ?>proyecto/tercer-pago" role="button"> 
                                 <i class="fa-solid fa-eye"></i> 
                             </a>
                         </span>     
