@@ -16,8 +16,8 @@ $mods['inicio'] = [
 //crear
 $mods['proyecto'] = [
     "inicio" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/inicio.php"] ,
-    "listar" => ["diseño" => "pagina-libre", "archivo" => "modulos/proyecto/listar.php"] ,
-    "registrar" => ["diseño" => "pagina-libre", "archivo" => "modulos/proyecto/registar.php"],
+    "consultar" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/consultar.php"] ,
+    "detalle" => ["diseño" => "menu-horizontal", "archivo" => "modulos/proyecto/detalle.php"] ,
     "actualizar" => ["diseño" => "pagina-libre", "archivo" => "modulos/proyecto/actualizar.php"],
     "eliminar" => ["diseño" => "pagina-libre", "archivo" => "modulos/proyecto/eliminar.php"]
 ];

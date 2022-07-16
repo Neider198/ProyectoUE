@@ -3,7 +3,6 @@
 
 <form >
     <div class="row">
-
         <div class="grupo-formulario col-sm-12 ">
             <div class=" row">
                 <div class="col-sm-12 col-md-2 texto-centro">

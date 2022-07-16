@@ -14,7 +14,7 @@
             <div class="collapse" id="collapseProyecto" aria-labelledby="headingOne" data-bs-parent="#sidenavAccordion">
                 <nav class="sb-sidenav-menu-nested nav">
                     <a class="nav-link"  href="<?php echo RAIZ ?>proyecto/inicio"> <i class="fa-solid fa-circle-dot sub-icono"></i> Crear</a>
-                    <a class="nav-link" href="layout-sidenav-light.html"><i  class="fa-solid fa-circle-dot sub-icono"></i>Consultar</a>
+                    <a class="nav-link" href="<?php echo RAIZ ?>proyecto/consultar"><i  class="fa-solid fa-circle-dot sub-icono"></i>Consultar</a>
                 </nav>
             </div>
 
