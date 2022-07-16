@@ -32,12 +32,20 @@ $mods['proyecto'] = [
 $mods['presupuesto'] = [
     "inicio" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/inicio.php"] ,
     "crear" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/crear.php"] ,
-    "adicion" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/adicion.php"] ,
-    "anticipo" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/anticipo.php"] ,
-    "primer-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/primer-pago.php"] ,
-    "segundo-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/segundo-pago.php"] ,
-    "tercer-pago" => ["diseño" => "menu-horizontal", "archivo" => "modulos/presupuesto/tercer-pago.php"] ,
+    
 ];
+
+
+                //*****************************************//
+                //------- MODULOS PRESUPUESTO ---------//
+                //*****************************************//
+//crear
+$mods['modificar'] = [
+    "adicion" => ["diseño" => "menu-horizontal", "archivo" => "modulos/modificar/adicion.php"] ,
+    "translados" => ["diseño" => "menu-horizontal", "archivo" => "modulos/modificar/translados.php"] ,
+    "detalles" => ["diseño" => "menu-horizontal", "archivo" => "modulos/modificar/detalles.php"] ,
+];
+
 
 
 

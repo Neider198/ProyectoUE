@@ -9,7 +9,7 @@
             </div>
             <div class="col-sm-8 col-md-8 col-lg-8">
                 <select class="form-select" aria-label="Default select example">
-                    <option selected>Selecion Subcuenta</option>
+                    <option selected>Selecion el Proyecto</option>
                     <option value="1">Proyecto A</option>
                     <option value="2">Proyecto B</option>
                     <option value="3">Proyecto C</option>
